@@ -1,4 +1,4 @@
-#Cloning a Repo
+# Cloning a Repo
 
 1. Create a new Repo
 2. Select "import code from another repository"
